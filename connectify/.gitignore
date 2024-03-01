@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.env
+mobile_app/android/
+mobile_app/ios/
+data/geo_boundaries/*.json
+data/event_templates/*.json
